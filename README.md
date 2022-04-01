@@ -1,12 +1,8 @@
-## Welcome to GitHub Pages
+## Wafa Fatima Isfahani
 
-You can use the [editor on GitHub](https://github.com/WIsfahani/WIsfahani.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Hi! 
+My name is Wafa F. Isfahani and I am a Digital Humanities Specialist at Rutgers University - New Brunswick.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
